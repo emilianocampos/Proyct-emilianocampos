@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #f5b6d1;
+    background: -webkit-linear-gradient(119deg, #f5b6d1 0%, #000000 50%, #5c1998 100%);
+    background: linear-gradient(119deg, #f5b6d1 0%, #000000 50%, #5c1998 100%);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+
+
+}
+
+.p {
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+
+.formu {
+    display: flex;
+    justify-content: center;
+}
+
+.hoa{
+    display: flex;
+    justify-content: center;
+}
